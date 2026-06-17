@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fnationalcioreview.com%2Fwp-content%2Fuploads%2F2025%2F09%2FTNCR-graphics-KB-2.gif&imgrefurl=https%3A%2F%2Fnationalcioreview.com%2Farticles-insights%2Ftechnology%2Fartificial-intelligence%2Fvibe-coding-moves-into-the-mainstream%2F&docid=19g1ZTRBMVHmrM&tbnid=1r5mGAKfFOmn0M&vet=12ahUKEwjQoquSr46VAxUJzzgGHdEADAcQnPAOegUIiAEQAQ..i&w=600&h=400&hcb=2&ved=2ahUKEwjQoquSr46VAxUJzzgGHdEADAcQnPAOegUIiAEQAQ">
+<img align="right" alt="coding" width="400" src="[https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fnationalcioreview.com%2Fwp-content%2Fuploads%2F2025%2F09%2FTNCR-graphics-KB-2.gif&imgrefurl=https%3A%2F%2Fnationalcioreview.com%2Farticles-insights%2Ftechnology%2Fartificial-intelligence%2Fvibe-coding-moves-into-the-mainstream%2F&docid=19g1ZTRBMVHmrM&tbnid=1r5mGAKfFOmn0M&vet=12ahUKEwjQoquSr46VAxUJzzgGHdEADAcQnPAOegUIiAEQAQ..i&w=600&h=400&hcb=2&ved=2ahUKEwjQoquSr46VAxUJzzgGHdEADAcQnPAOegUIiAEQAQ](https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganesh15040212&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh15040212" /> </p>
 
